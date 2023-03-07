@@ -1,7 +1,6 @@
 
 ### Olá, sou Yasmin Vilhena, Designer gráfico e estudante de Desenvolvimento Full Stack👋
-
-![Uploading Sem título.png…]()
+![Sem título](https://user-images.githubusercontent.com/114528129/223499320-f9a58c85-55de-4e8b-95d0-3f0a811f9fb5.png)
 ![e](https://user-images.githubusercontent.com/114528129/223498437-4a83c203-92b3-4073-85d5-d172a346a4cc.png)
 
 ![image](https://user-images.githubusercontent.com/114528129/223498504-3cff35c6-a3b4-4e9f-89e6-100541b2bc62.png)
